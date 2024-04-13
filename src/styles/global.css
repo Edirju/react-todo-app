@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background: #030A12;
+  background: linear-gradient(0deg, #030A12, #1F252C);
+  color: #f8fafb;
+  min-height: 100vh;
+}
+
+button {
+  cursor: pointer;
+}
